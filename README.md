@@ -1,6 +1,5 @@
 # LightWeightCNN-Denosing
 
-Train/Test
-Training and testing dataset in folder dataset.
+Training and testing sets can be found in folder--dataset.
 
 
